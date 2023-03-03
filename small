@@ -1,0 +1,5 @@
+def small():
+    list1 = [5, 7, 9, 14, 10, 20, 4] 
+    print(min(list1))
+    
+small()
